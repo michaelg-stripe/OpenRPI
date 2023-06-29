@@ -4,7 +4,7 @@ mysql_user = "rpiengine";
 mysql_passwd = "rpienginepassword";
 
 # Check these too:
-engine_db = "rpi_engine";
+engine_db = "test";
 player_db = "rpi_player";
 player_log_db = "rpi_player_log";
 world_db = "rpi_player_log";
